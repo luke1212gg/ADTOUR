@@ -19,15 +19,21 @@ Write to Research Group #CrowdsourcedTourismApp
 In the hardware necessities, the researchers used and tested the mobile application with an Android 8.1.0 version of the operating system, an Octa-core processor, 3.00GB of RAM, and a 32.0 GB device storage. For system admin, the researchers tested the application on a desktop with Intel(R) Core (™) i5-3230M CPU @ 2.60GHz, 4GB RAM, and 64-bit operating system.
 
 # Installation of Mobile Application
-a. Download the Adtour .apk file at: 
+a. Download the Adtour .apk file at:
 https://bit.ly/WVSUCICT-AdtourAPK
+
 b. Afterdownloading, open your phone settings and under security tab, allow the "Install applications from unknown sources".
+
 c. Proceed to install the .apk file.
 
 # Configuration of Web Application
 a. Download the package via Github at 
 https://bit.ly/WVSUCICT-Adtour, and download ZIP.
+
 b. Extract the folder.
+
 c. After downloading, open the whole folder and load it through Visual Studio Code.
+
 d. Proceed to Terminal function, and type 'npm run'
+
 e. The web application will start in your local browser afterwards.
