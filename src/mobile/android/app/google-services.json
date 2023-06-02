@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "542803652815",
+    "project_id": "adtour-c7e78",
+    "storage_bucket": "adtour-c7e78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542803652815:android:ab161ef0ae22bacdd447ba",
+        "android_client_info": {
+          "package_name": "com.example.adtour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542803652815-8j5dmbqjrc68i2qto0tk3pbk5ks3o2rk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmgKqcDeGr5I37XWt9wI6bTRBylV-gFIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542803652815-8j5dmbqjrc68i2qto0tk3pbk5ks3o2rk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
